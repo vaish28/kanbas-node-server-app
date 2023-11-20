@@ -1,0 +1,74 @@
+[
+	{
+		"_id": "M101",
+		"name": "Introduction to Java Collections Library",
+		"description": "Basics of Java Collections",
+		"course": "CS5010"
+	},
+	{
+		"_id": "M102",
+		"name": "Java Testing",
+		"description": "Testing in java using Junit test cases",
+		"course": "CS5010"
+	},
+	{
+		"_id": "M103",
+		"name": "Design Patterns",
+		"description": "Basic Design patterns builder, factory and observer",
+		"course": "CS5010"
+	},
+	{
+		"_id": "M201",
+		"name": "Introduction to LLM's",
+		"description": "Basic of LLM's",
+		"course": "CS6140"
+	},
+	{
+		"_id": "M202",
+		"name": "Introduction to Neural Networks",
+		"description": "Understanding neural networks and math behind it.",
+		"course": "CS6140"
+	},
+	{
+		"_id": "M203",
+		"name": "YOLO Assignment",
+		"description": "Study Yolo(you look only once) real time object detection method .",
+		"course": "CS6140"
+	},
+	{
+		"_id": "M301",
+		"name": "Introduction to HTML and SETUP",
+		"description": "Setting up enviornment and learning HTML for the web development",
+		"course": "CS4550"
+	},
+	{
+		"_id": "M302",
+		"name": "CSS: Boostrap",
+		"description": "Boostrap and Tailwind CSS.",
+		"course": "CS4550"
+	},
+	{
+		"_id": "M303",
+		"name": "Javascript and React",
+		"description": "Overview of javascript and introduction to react.",
+		"course": "CS4550"
+	},
+	{
+		"_id": "M401",
+		"name": "Introduction to Python and advanced concepts",
+		"description": "Overview of python and advanced concepts.",
+		"course": "DS2000"
+	},
+	{
+		"_id": "M402",
+		"name": "Numpy and Pandas",
+		"description": "Numpy and data cleaning",
+		"course": "DS2000"
+	},
+	{
+		"_id": "M402",
+		"name": "Introduction to Pandas",
+		"description": "Pandas and data cleaning",
+		"course": "DS2000"
+	}
+]
