@@ -33,6 +33,8 @@ function ModuleRoutes(app) {
 		res.sendStatus(200)
 	})
 
+
+    
 	// Update a module
 	app.put("/api/modules/:mid", (req, res) => {
 		console.log("Editing a module of the course")
