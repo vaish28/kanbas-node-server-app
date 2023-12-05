@@ -22,7 +22,7 @@ const CONNECTION_STRING =
 	process.env.DB_CONNECTION_STRING || "mongodb://127.0.0.1:27017/kanbas"
 
 
-await mongoose.connect(CONNECTION_STRING,  { useNewUrlParser: true, useUnifiedTopology: true })
+await mongoose.connect(CONNECTION_STRING)
 
 app.use(
 	cors({
